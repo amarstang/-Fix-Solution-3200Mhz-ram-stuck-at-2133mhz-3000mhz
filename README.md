@@ -14,8 +14,8 @@ TLDR;
 
 - 0: Turn on XMP, DOCP or EOCP
 - 1: Check the ram slot
-- 2: Tinker with DRAM voltage (1.2V-1.5V)
-- 3: Tinker with SOC voltage (1.0V-1.1V)
+- 2: Tinker with SOC voltage (1.0V-1.1V)
+- 3: Tinker with DRAM voltage (1.2V-1.5V)
 - 4: If this dosent work check for BIOS updates
 
 
@@ -47,8 +47,14 @@ https://techjury.net/blog/what-slots-to-put-ram-in/
 
 
 
-Step 2:
+Step 3:
 =
+
+Tinker with DRAM voltage (1.2V-1.5V)
+- BIOS -> ADVANCED -> DRAM Voltage
+- Change the voltage up a bit assuming it's below 1.4
+- Incerments of 0.025 or 0.050 volt (worked well for me, before fine turning)
+
 
 
 
