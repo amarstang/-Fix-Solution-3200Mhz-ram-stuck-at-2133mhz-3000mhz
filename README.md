@@ -20,8 +20,13 @@ TLDR;
 
 Step 0 Turn on XMP, DOCP or EOCP:
 =
-Turn on XMP(Intel), DOCP(AMD) or EOCP(AMD)
-- For an picture guide Google: turn on *XMP,DOCP or EOCP*, *the producer ASUS, MSI...*
+Turn on XMP (Intel CPU), DOCP (AMD CPU) or EOCP (AMD CPU)
+
+For an picture guide Google: 
+- turn on *XMP,DOCP or EOCP*, *the producer ASUS, MSI...*
+
+Exampel
+- "Turn on DOCP ASUS"
 
 More info:
 https://www.cgdirector.com/xmp-eocp-docp/
@@ -30,7 +35,7 @@ https://www.cgdirector.com/xmp-eocp-docp/
 
 Step 1 Check the ram slot:
 =
-(If the ram is dual-channel)
+(If the ram is dual-channel (2 ram sticks))
 - Make sure the ram is in slot A2(DIMMA2) and B2(DIMMB2)
 
 (A1 is the closest to the CPU)
