@@ -1,5 +1,4 @@
 # -Fix-Solution-3200Mhz-ram-stuck-at-2133mhz-3000mhz
-(Fix &amp; Solution) 3200Mhz ram, stuck at 2133mhz, 3000mhz
 
 (Fix & Solution) 3200Mhz ram, stuck at 2133mhz, 3000mhz
 
