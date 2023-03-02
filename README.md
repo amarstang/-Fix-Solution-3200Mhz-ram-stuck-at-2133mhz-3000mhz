@@ -1,7 +1,6 @@
-# An step by step guide with awnsers to fix "SIMPEL" ram problems. (Fix & Solution) 3200Mhz ram, stuck at 2133mhz, 3000mhz. 
-
-I TAKE NO RESPONSEBELITY OR LIABILITY FOR ANY HARDWARE OR OTHER DAMAGES. TRY AT YOUR OWN RISK
-=
+# (Fix & Solution) 3200Mhz ram, stuck at 2133mhz, 3000mhz. 
+## An step by step guide with awnsers to fix "SIMPEL" ram problems.
+### I TAKE NO RESPONSEBELITY OR LIABILITY FOR ANY HARDWARE OR OTHER DAMAGES. TRY AT YOUR OWN RISK
 
 All of this assume the following:
 =
